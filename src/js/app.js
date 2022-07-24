@@ -16,7 +16,7 @@ App={
   contract_Addr:'0xc7d8e4a76F75def6Bf36bA19FAe71DC99B2A6d0C',
   contract_usdtd:'0x55d398326f99059fF775485246999027B3197955',
   originalBlock:20964943,
-  chainIdd:"0x61",
+  chainIdd:"0x38",
   infor:{},
   isRunIn:false,
   isRunOut:false,
