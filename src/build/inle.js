@@ -85944,7 +85944,7 @@ App={
        App.instance = new web3.eth.Contract(data.abi,App.contract_Addr,{from:App.accounts[0]});
        UpdateLog();
       });
-         $.getJSON('./artifacts/fml.json',  function(data){
+         $.getJSON('./artifacts/usdt.json',  function(data){
        App.fml_instance =  new web3.eth.Contract(data.abi,App.contract_usdtd,{from:App.accounts[0]});
       });
   }
